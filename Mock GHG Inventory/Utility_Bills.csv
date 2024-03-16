@@ -1,0 +1,433 @@
+,Facility,Month,Year,Energy,Value,Unit,Date,CO2 Equivalent,Therms,Scope
+0,Sycamore,January,2022,Electricity,734.0,kWh,2022-01-01,0.306078,,2
+1,Sycamore,February,2022,Electricity,756.0,kWh,2022-02-01,0.315252,,2
+2,Sycamore,March,2022,Electricity,747.0,kWh,2022-03-01,0.311499,,2
+3,Sycamore,April,2022,Electricity,867.0,kWh,2022-04-01,0.361539,,2
+4,Sycamore,May,2022,Electricity,776.0,kWh,2022-05-01,0.323592,,2
+5,Sycamore,June,2022,Electricity,753.0,kWh,2022-06-01,0.314001,,2
+6,Sycamore,July,2022,Electricity,718.0,kWh,2022-07-01,0.299406,,2
+7,Sycamore,August,2022,Electricity,793.0,kWh,2022-08-01,0.330681,,2
+8,Sycamore,September,2022,Electricity,832.0,kWh,2022-09-01,0.346944,,2
+9,Sycamore,October,2022,Electricity,769.0,kWh,2022-10-01,0.320673,,2
+10,Sycamore,November,2022,Electricity,809.0,kWh,2022-11-01,0.337353,,2
+11,Sycamore,December,2022,Electricity,708.0,kWh,2022-12-01,0.295236,,2
+12,Sycamore,January,2022,Natural gas,1965.0,cu ft,2022-01-01,108310.8,20436000.0,2
+13,Sycamore,February,2022,Natural gas,1991.0,cu ft,2022-02-01,109743.92,20706400.0,2
+14,Sycamore,March,2022,Natural gas,1905.0,cu ft,2022-03-01,105003.6,19812000.0,2
+15,Sycamore,April,2022,Natural gas,1947.0,cu ft,2022-04-01,107318.64,20248800.0,2
+16,Sycamore,May,2022,Natural gas,1986.0,cu ft,2022-05-01,109468.32,20654400.0,2
+17,Sycamore,June,2022,Natural gas,1943.0,cu ft,2022-06-01,107098.16,20207200.0,2
+18,Sycamore,July,2022,Natural gas,1968.0,cu ft,2022-07-01,108476.16,20467200.0,2
+19,Sycamore,August,2022,Natural gas,1930.0,cu ft,2022-08-01,106381.6,20072000.0,2
+20,Sycamore,September,2022,Natural gas,1977.0,cu ft,2022-09-01,108972.24,20560800.0,2
+21,Sycamore,October,2022,Natural gas,1935.0,cu ft,2022-10-01,106657.2,20124000.0,2
+22,Sycamore,November,2022,Natural gas,1943.0,cu ft,2022-11-01,107098.16,20207200.0,2
+23,Sycamore,December,2022,Natural gas,1965.0,cu ft,2022-12-01,108310.8,20436000.0,2
+24,Bridgeton,January,2022,Electricity,,,2022-01-01,,,2
+25,Bridgeton,February,2022,Electricity,654.0,kWh,2022-02-01,0.272718,,2
+26,Bridgeton,March,2022,Electricity,624.0,kWh,2022-03-01,0.260208,,2
+27,Bridgeton,April,2022,Electricity,692.0,kWh,2022-04-01,0.288564,,2
+28,Bridgeton,May,2022,Electricity,636.0,kWh,2022-05-01,0.265212,,2
+29,Bridgeton,June,2022,Electricity,680.0,kWh,2022-06-01,0.28356,,2
+30,Bridgeton,July,2022,Electricity,646.0,kWh,2022-07-01,0.269382,,2
+31,Bridgeton,August,2022,Electricity,699.0,kWh,2022-08-01,0.291483,,2
+32,Bridgeton,September,2022,Electricity,613.0,kWh,2022-09-01,0.255621,,2
+33,Bridgeton,October,2022,Electricity,608.0,kWh,2022-10-01,0.253536,,2
+34,Bridgeton,November,2022,Electricity,622.0,kWh,2022-11-01,0.259374,,2
+35,Bridgeton,December,2022,Electricity,627.0,kWh,2022-12-01,0.261459,,2
+36,Bridgeton,January,2022,Natural gas,1644.0,cu ft,2022-01-01,90617.28,17097600.0,2
+37,Bridgeton,February,2022,Natural gas,1654.0,cu ft,2022-02-01,91168.48,17201600.0,2
+38,Bridgeton,March,2022,Natural gas,1669.0,cu ft,2022-03-01,91995.28,17357600.0,2
+39,Bridgeton,April,2022,Natural gas,1686.0,cu ft,2022-04-01,92932.32,17534400.0,2
+40,Bridgeton,May,2022,Natural gas,1686.0,cu ft,2022-05-01,92932.32,17534400.0,2
+41,Bridgeton,June,2022,Natural gas,1690.0,cu ft,2022-06-01,93152.8,17576000.0,2
+42,Bridgeton,July,2022,Natural gas,1668.0,cu ft,2022-07-01,91940.16,17347200.0,2
+43,Bridgeton,August,2022,Natural gas,1682.0,cu ft,2022-08-01,92711.84,17492800.0,2
+44,Bridgeton,September,2022,Natural gas,1656.0,cu ft,2022-09-01,91278.72,17222400.0,2
+45,Bridgeton,October,2022,Natural gas,1605.0,cu ft,2022-10-01,88467.6,16692000.0,2
+46,Bridgeton,November,2022,Natural gas,1689.0,cu ft,2022-11-01,93097.68000000001,17565600.0,2
+47,Bridgeton,December,2022,Natural gas,1610.0,cu ft,2022-12-01,88743.2,16744000.0,2
+48,Amerige,January,2022,Electricity,119.0,kWh,2022-01-01,0.049623,,2
+49,Amerige,February,2022,Electricity,148.0,kWh,2022-02-01,0.061716,,2
+50,Amerige,March,2022,Electricity,157.0,kWh,2022-03-01,0.065469,,2
+51,Amerige,April,2022,Electricity,192.0,kWh,2022-04-01,0.080064,,2
+52,Amerige,May,2022,Electricity,121.0,kWh,2022-05-01,0.050457,,2
+53,Amerige,June,2022,Electricity,198.0,kWh,2022-06-01,0.082566,,2
+54,Amerige,July,2022,Electricity,102.0,kWh,2022-07-01,0.042534,,2
+55,Amerige,August,2022,Electricity,164.0,kWh,2022-08-01,0.068388,,2
+56,Amerige,September,2022,Electricity,140.0,kWh,2022-09-01,0.05838,,2
+57,Amerige,October,2022,Electricity,152.0,kWh,2022-10-01,0.063384,,2
+58,Amerige,November,2022,Electricity,120.0,kWh,2022-11-01,0.05004,,2
+59,Amerige,December,2022,Electricity,124.0,kWh,2022-12-01,0.051708,,2
+60,Amerige,January,2022,Natural gas,462.0,cu ft,2022-01-01,25465.44,4804800.0,2
+61,Amerige,February,2022,Natural gas,435.0,cu ft,2022-02-01,23977.2,4524000.0,2
+62,Amerige,March,2022,Natural gas,467.0,cu ft,2022-03-01,25741.04,4856800.0,2
+63,Amerige,April,2022,Natural gas,405.0,cu ft,2022-04-01,22323.6,4212000.0,2
+64,Amerige,May,2022,Natural gas,491.0,cu ft,2022-05-01,27063.920000000002,5106400.0,2
+65,Amerige,June,2022,Natural gas,433.0,cu ft,2022-06-01,23866.96,4503200.0,2
+66,Amerige,July,2022,Natural gas,425.0,cu ft,2022-07-01,23426.0,4420000.0,2
+67,Amerige,August,2022,Natural gas,422.0,cu ft,2022-08-01,23260.64,4388800.0,2
+68,Amerige,September,2022,Natural gas,462.0,cu ft,2022-09-01,25465.44,4804800.0,2
+69,Amerige,October,2022,Natural gas,432.0,cu ft,2022-10-01,23811.84,4492800.0,2
+70,Amerige,November,2022,Natural gas,,,2022-11-01,,,2
+71,Amerige,December,2022,Natural gas,413.0,cu ft,2022-12-01,22764.56,4295200.0,2
+72,River,January,2022,Electricity,994.0,kWh,2022-01-01,0.414498,,2
+73,River,February,2022,Electricity,951.0,kWh,2022-02-01,0.396567,,2
+74,River,March,2022,Electricity,964.0,kWh,2022-03-01,0.401988,,2
+75,River,April,2022,Electricity,945.0,kWh,2022-04-01,0.394065,,2
+76,River,May,2022,Electricity,906.0,kWh,2022-05-01,0.37780199999999997,,2
+77,River,June,2022,Electricity,936.0,kWh,2022-06-01,0.390312,,2
+78,River,July,2022,Electricity,952.0,kWh,2022-07-01,0.396984,,2
+79,River,August,2022,Electricity,997.0,kWh,2022-08-01,0.415749,,2
+80,River,September,2022,Electricity,987.0,kWh,2022-09-01,0.411579,,2
+81,River,October,2022,Electricity,963.0,kWh,2022-10-01,0.401571,,2
+82,River,November,2022,Electricity,976.0,kWh,2022-11-01,0.406992,,2
+83,River,December,2022,Electricity,967.0,kWh,2022-12-01,0.403239,,2
+84,River,January,2022,Natural gas,2335.0,cu ft,2022-01-01,128705.2,24284000.0,2
+85,River,February,2022,Natural gas,2384.0,cu ft,2022-02-01,131406.08,24793600.0,2
+86,River,March,2022,Natural gas,2351.0,cu ft,2022-03-01,129587.12,24450400.0,2
+87,River,April,2022,Natural gas,2348.0,cu ft,2022-04-01,129421.76,24419200.0,2
+88,River,May,2022,Natural gas,2307.0,cu ft,2022-05-01,127161.84,23992800.0,2
+89,River,June,2022,Natural gas,2367.0,cu ft,2022-06-01,130469.04,24616800.0,2
+90,River,July,2022,Natural gas,2366.0,cu ft,2022-07-01,130413.92,24606400.0,2
+91,River,August,2022,Natural gas,2334.0,cu ft,2022-08-01,128650.08,24273600.0,2
+92,River,September,2022,Natural gas,2339.0,cu ft,2022-09-01,128925.68000000001,24325600.0,2
+93,River,October,2022,Natural gas,2400.0,cu ft,2022-10-01,132288.0,24960000.0,2
+94,River,November,2022,Natural gas,2387.0,cu ft,2022-11-01,131571.44,24824800.0,2
+95,River,December,2022,Natural gas,2339.0,cu ft,2022-12-01,128925.68000000001,24325600.0,2
+96,Sage,January,2022,Electricity,909.0,kWh,2022-01-01,0.379053,,2
+97,Sage,February,2022,Electricity,902.0,kWh,2022-02-01,0.376134,,2
+98,Sage,March,2022,Electricity,955.0,kWh,2022-03-01,0.398235,,2
+99,Sage,April,2022,Electricity,993.0,kWh,2022-04-01,0.414081,,2
+100,Sage,May,2022,Electricity,984.0,kWh,2022-05-01,0.410328,,2
+101,Sage,June,2022,Electricity,987.0,kWh,2022-06-01,0.411579,,2
+102,Sage,July,2022,Electricity,958.0,kWh,2022-07-01,0.399486,,2
+103,Sage,August,2022,Electricity,934.0,kWh,2022-08-01,0.389478,,2
+104,Sage,September,2022,Electricity,968.0,kWh,2022-09-01,0.403656,,2
+105,Sage,October,2022,Electricity,928.0,kWh,2022-10-01,0.386976,,2
+106,Sage,November,2022,Electricity,956.0,kWh,2022-11-01,0.398652,,2
+107,Sage,December,2022,Electricity,942.0,kWh,2022-12-01,0.392814,,2
+108,Sage,January,2022,Natural gas,2248.0,cu ft,2022-01-01,123909.76,23379200.0,2
+109,Sage,February,2022,Natural gas,2203.0,cu ft,2022-02-01,121429.36,22911200.0,2
+110,Sage,March,2022,Natural gas,2244.0,cu ft,2022-03-01,123689.28,23337600.0,2
+111,Sage,April,2022,Natural gas,2212.0,cu ft,2022-04-01,121925.44,23004800.0,2
+112,Sage,May,2022,Natural gas,2248.0,cu ft,2022-05-01,123909.76,23379200.0,2
+113,Sage,June,2022,Natural gas,2202.0,cu ft,2022-06-01,121374.24,22900800.0,2
+114,Sage,July,2022,Natural gas,2254.0,cu ft,2022-07-01,124240.48,23441600.0,2
+115,Sage,August,2022,Natural gas,2252.0,cu ft,2022-08-01,124130.24,23420800.0,2
+116,Sage,September,2022,Natural gas,2215.0,cu ft,2022-09-01,122090.8,23036000.0,2
+117,Sage,October,2022,Natural gas,2289.0,cu ft,2022-10-01,126169.68000000001,23805600.0,2
+118,Sage,November,2022,Natural gas,2218.0,cu ft,2022-11-01,122256.16,23067200.0,2
+119,Sage,December,2022,Natural gas,2223.0,cu ft,2022-12-01,122531.76,23119200.0,2
+120,Vine,January,2022,Electricity,986.0,kWh,2022-01-01,0.41116199999999997,,2
+121,Vine,February,2022,Electricity,917.0,kWh,2022-02-01,0.382389,,2
+122,Vine,March,2022,Electricity,978.0,kWh,2022-03-01,0.407826,,2
+123,Vine,April,2022,Electricity,983.0,kWh,2022-04-01,0.409911,,2
+124,Vine,May,2022,Electricity,919.0,kWh,2022-05-01,0.383223,,2
+125,Vine,June,2022,Electricity,968.0,kWh,2022-06-01,0.403656,,2
+126,Vine,July,2022,Electricity,904.0,kWh,2022-07-01,0.376968,,2
+127,Vine,August,2022,Electricity,948.0,kWh,2022-08-01,0.395316,,2
+128,Vine,September,2022,Electricity,997.0,kWh,2022-09-01,0.415749,,2
+129,Vine,October,2022,Electricity,939.0,kWh,2022-10-01,0.391563,,2
+130,Vine,November,2022,Electricity,912.0,kWh,2022-11-01,0.380304,,2
+131,Vine,December,2022,Electricity,953.0,kWh,2022-12-01,0.397401,,2
+132,Vine,January,2022,Natural gas,2321.0,cu ft,2022-01-01,127933.52,24138400.0,2
+133,Vine,February,2022,Natural gas,2314.0,cu ft,2022-02-01,127547.68000000001,24065600.0,2
+134,Vine,March,2022,Natural gas,2304.0,cu ft,2022-03-01,126996.48,23961600.0,2
+135,Vine,April,2022,Natural gas,2331.0,cu ft,2022-04-01,128484.72,24242400.0,2
+136,Vine,May,2022,Natural gas,2366.0,cu ft,2022-05-01,130413.92,24606400.0,2
+137,Vine,June,2022,Natural gas,2391.0,cu ft,2022-06-01,131791.92,24866400.0,2
+138,Vine,July,2022,Natural gas,2372.0,cu ft,2022-07-01,130744.64,24668800.0,2
+139,Vine,August,2022,Natural gas,2325.0,cu ft,2022-08-01,128154.0,24180000.0,2
+140,Vine,September,2022,Natural gas,2318.0,cu ft,2022-09-01,127768.16,24107200.0,2
+141,Vine,October,2022,Natural gas,2395.0,cu ft,2022-10-01,132012.4,24908000.0,2
+142,Vine,November,2022,Natural gas,2318.0,cu ft,2022-11-01,127768.16,24107200.0,2
+143,Vine,December,2022,Natural gas,2385.0,cu ft,2022-12-01,131461.2,24804000.0,2
+144,Forest,January,2022,Electricity,367.0,kWh,2022-01-01,0.153039,,2
+145,Forest,February,2022,Electricity,354.0,kWh,2022-02-01,0.147618,,2
+146,Forest,March,2022,Electricity,329.0,kWh,2022-03-01,0.137193,,2
+147,Forest,April,2022,Electricity,399.0,kWh,2022-04-01,0.166383,,2
+148,Forest,May,2022,Electricity,386.0,kWh,2022-05-01,0.160962,,2
+149,Forest,June,2022,Electricity,,,2022-06-01,,,2
+150,Forest,July,2022,Electricity,354.0,kWh,2022-07-01,0.147618,,2
+151,Forest,August,2022,Electricity,360.0,kWh,2022-08-01,0.15012,,2
+152,Forest,September,2022,Electricity,345.0,kWh,2022-09-01,0.143865,,2
+153,Forest,October,2022,Electricity,359.0,kWh,2022-10-01,0.149703,,2
+154,Forest,November,2022,Electricity,351.0,kWh,2022-11-01,0.146367,,2
+155,Forest,December,2022,Electricity,321.0,kWh,2022-12-01,0.133857,,2
+156,Forest,January,2022,Natural gas,951.0,cu ft,2022-01-01,52419.12,9890400.0,2
+157,Forest,February,2022,Natural gas,934.0,cu ft,2022-02-01,51482.08,9713600.0,2
+158,Forest,March,2022,Natural gas,931.0,cu ft,2022-03-01,51316.72,9682400.0,2
+159,Forest,April,2022,Natural gas,938.0,cu ft,2022-04-01,51702.56,9755200.0,2
+160,Forest,May,2022,Natural gas,928.0,cu ft,2022-05-01,51151.36,9651200.0,2
+161,Forest,June,2022,Natural gas,947.0,cu ft,2022-06-01,52198.64,9848800.0,2
+162,Forest,July,2022,Natural gas,945.0,cu ft,2022-07-01,52088.4,9828000.0,2
+163,Forest,August,2022,Natural gas,904.0,cu ft,2022-08-01,49828.48,9401600.0,2
+164,Forest,September,2022,Natural gas,918.0,cu ft,2022-09-01,50600.16,9547200.0,2
+165,Forest,October,2022,Natural gas,908.0,cu ft,2022-10-01,50048.96,9443200.0,2
+166,Forest,November,2022,Natural gas,995.0,cu ft,2022-11-01,54844.4,10348000.0,2
+167,Forest,December,2022,Natural gas,920.0,cu ft,2022-12-01,50710.4,9568000.0,2
+168,Yukon,January,2022,Electricity,1121.0,kWh,2022-01-01,0.467457,,2
+169,Yukon,February,2022,Electricity,1183.0,kWh,2022-02-01,0.493311,,2
+170,Yukon,March,2022,Electricity,1143.0,kWh,2022-03-01,0.47663099999999997,,2
+171,Yukon,April,2022,Electricity,1170.0,kWh,2022-04-01,0.48789,,2
+172,Yukon,May,2022,Electricity,1159.0,kWh,2022-05-01,0.483303,,2
+173,Yukon,June,2022,Electricity,1151.0,kWh,2022-06-01,0.479967,,2
+174,Yukon,July,2022,Electricity,1158.0,kWh,2022-07-01,0.482886,,2
+175,Yukon,August,2022,Electricity,1198.0,kWh,2022-08-01,0.499566,,2
+176,Yukon,September,2022,Electricity,1118.0,kWh,2022-09-01,0.466206,,2
+177,Yukon,October,2022,Electricity,1154.0,kWh,2022-10-01,0.481218,,2
+178,Yukon,November,2022,Electricity,1174.0,kWh,2022-11-01,0.489558,,2
+179,Yukon,December,2022,Electricity,1142.0,kWh,2022-12-01,0.476214,,2
+180,Yukon,January,2022,Natural gas,,,2022-01-01,,,2
+181,Yukon,February,2022,Natural gas,2847.0,cu ft,2022-02-01,156926.64,29608800.0,2
+182,Yukon,March,2022,Natural gas,2900.0,cu ft,2022-03-01,159848.0,30160000.0,2
+183,Yukon,April,2022,Natural gas,2875.0,cu ft,2022-04-01,158470.0,29900000.0,2
+184,Yukon,May,2022,Natural gas,2893.0,cu ft,2022-05-01,159462.16,30087200.0,2
+185,Yukon,June,2022,Natural gas,2890.0,cu ft,2022-06-01,159296.8,30056000.0,2
+186,Yukon,July,2022,Natural gas,2801.0,cu ft,2022-07-01,154391.12,29130400.0,2
+187,Yukon,August,2022,Natural gas,2883.0,cu ft,2022-08-01,158910.96,29983200.0,2
+188,Yukon,September,2022,Natural gas,2826.0,cu ft,2022-09-01,155769.12,29390400.0,2
+189,Yukon,October,2022,Natural gas,2858.0,cu ft,2022-10-01,157532.96,29723200.0,2
+190,Yukon,November,2022,Natural gas,2802.0,cu ft,2022-11-01,154446.24,29140800.0,2
+191,Yukon,December,2022,Natural gas,2891.0,cu ft,2022-12-01,159351.92,30066400.0,2
+192,Rockville,January,2022,Electricity,1000.0,kWh,2022-01-01,0.417,,2
+193,Rockville,February,2022,Electricity,1091.0,kWh,2022-02-01,0.454947,,2
+194,Rockville,March,2022,Electricity,1013.0,kWh,2022-03-01,0.422421,,2
+195,Rockville,April,2022,Electricity,1067.0,kWh,2022-04-01,0.444939,,2
+196,Rockville,May,2022,Electricity,1047.0,kWh,2022-05-01,0.436599,,2
+197,Rockville,June,2022,Electricity,1056.0,kWh,2022-06-01,0.440352,,2
+198,Rockville,July,2022,Electricity,1051.0,kWh,2022-07-01,0.438267,,2
+199,Rockville,August,2022,Electricity,1038.0,kWh,2022-08-01,0.432846,,2
+200,Rockville,September,2022,Electricity,1033.0,kWh,2022-09-01,0.430761,,2
+201,Rockville,October,2022,Electricity,1092.0,kWh,2022-10-01,0.455364,,2
+202,Rockville,November,2022,Electricity,1044.0,kWh,2022-11-01,0.435348,,2
+203,Rockville,December,2022,Electricity,1003.0,kWh,2022-12-01,0.418251,,2
+204,Rockville,January,2022,Natural gas,2580.0,cu ft,2022-01-01,142209.6,26832000.0,2
+205,Rockville,February,2022,Natural gas,2537.0,cu ft,2022-02-01,139839.44,26384800.0,2
+206,Rockville,March,2022,Natural gas,2507.0,cu ft,2022-03-01,138185.84,26072800.0,2
+207,Rockville,April,2022,Natural gas,2519.0,cu ft,2022-04-01,138847.28,26197600.0,2
+208,Rockville,May,2022,Natural gas,2533.0,cu ft,2022-05-01,139618.96,26343200.0,2
+209,Rockville,June,2022,Natural gas,2598.0,cu ft,2022-06-01,143201.76,27019200.0,2
+210,Rockville,July,2022,Natural gas,2505.0,cu ft,2022-07-01,138075.6,26052000.0,2
+211,Rockville,August,2022,Natural gas,2537.0,cu ft,2022-08-01,139839.44,26384800.0,2
+212,Rockville,September,2022,Natural gas,2574.0,cu ft,2022-09-01,141878.88,26769600.0,2
+213,Rockville,October,2022,Natural gas,2511.0,cu ft,2022-10-01,138406.32,26114400.0,2
+214,Rockville,November,2022,Natural gas,2543.0,cu ft,2022-11-01,140170.16,26447200.0,2
+215,Rockville,December,2022,Natural gas,2577.0,cu ft,2022-12-01,142044.24,26800800.0,2
+216,Cleveland,January,2022,Electricity,597.0,kWh,2022-01-01,0.248949,,2
+217,Cleveland,February,2022,Electricity,514.0,kWh,2022-02-01,0.214338,,2
+218,Cleveland,March,2022,Electricity,521.0,kWh,2022-03-01,0.217257,,2
+219,Cleveland,April,2022,Electricity,517.0,kWh,2022-04-01,0.215589,,2
+220,Cleveland,May,2022,Electricity,535.0,kWh,2022-05-01,0.223095,,2
+221,Cleveland,June,2022,Electricity,514.0,kWh,2022-06-01,0.214338,,2
+222,Cleveland,July,2022,Electricity,500.0,kWh,2022-07-01,0.2085,,2
+223,Cleveland,August,2022,Electricity,501.0,kWh,2022-08-01,0.208917,,2
+224,Cleveland,September,2022,Electricity,509.0,kWh,2022-09-01,0.212253,,2
+225,Cleveland,October,2022,Electricity,545.0,kWh,2022-10-01,0.227265,,2
+226,Cleveland,November,2022,Electricity,512.0,kWh,2022-11-01,0.213504,,2
+227,Cleveland,December,2022,Electricity,575.0,kWh,2022-12-01,0.239775,,2
+228,Cleveland,January,2022,Natural gas,1393.0,cu ft,2022-01-01,76782.16,14487200.0,2
+229,Cleveland,February,2022,Natural gas,1396.0,cu ft,2022-02-01,76947.52,14518400.0,2
+230,Cleveland,March,2022,Natural gas,1302.0,cu ft,2022-03-01,71766.24,13540800.0,2
+231,Cleveland,April,2022,Natural gas,1379.0,cu ft,2022-04-01,76010.48,14341600.0,2
+232,Cleveland,May,2022,Natural gas,1387.0,cu ft,2022-05-01,76451.44,14424800.0,2
+233,Cleveland,June,2022,Natural gas,1308.0,cu ft,2022-06-01,72096.96,13603200.0,2
+234,Cleveland,July,2022,Natural gas,1399.0,cu ft,2022-07-01,77112.88,14549600.0,2
+235,Cleveland,August,2022,Natural gas,1372.0,cu ft,2022-08-01,75624.64,14268800.0,2
+236,Cleveland,September,2022,Natural gas,1329.0,cu ft,2022-09-01,73254.48,13821600.0,2
+237,Cleveland,October,2022,Natural gas,1347.0,cu ft,2022-10-01,74246.64,14008800.0,2
+238,Cleveland,November,2022,Natural gas,1340.0,cu ft,2022-11-01,73860.8,13936000.0,2
+239,Cleveland,December,2022,Natural gas,1303.0,cu ft,2022-12-01,71821.36,13551200.0,2
+240,Chapel,January,2022,Electricity,435819.0,kWh,2022-01-01,181.736523,,2
+241,Chapel,February,2022,Electricity,435848.0,kWh,2022-02-01,181.748616,,2
+242,Chapel,March,2022,Electricity,435847.0,kWh,2022-03-01,181.748199,,2
+243,Chapel,April,2022,Electricity,435836.0,kWh,2022-04-01,181.743612,,2
+244,Chapel,May,2022,Electricity,435834.0,kWh,2022-05-01,181.742778,,2
+245,Chapel,June,2022,Electricity,435840.0,kWh,2022-06-01,181.74528,,2
+246,Chapel,July,2022,Electricity,435852.0,kWh,2022-07-01,181.750284,,2
+247,Chapel,August,2022,Electricity,435844.0,kWh,2022-08-01,181.746948,,2
+248,Chapel,September,2022,Electricity,435816.0,kWh,2022-09-01,181.735272,,2
+249,Chapel,October,2022,Electricity,435821.0,kWh,2022-10-01,181.737357,,2
+250,Chapel,November,2022,Electricity,435866.0,kWh,2022-11-01,181.756122,,2
+251,Chapel,December,2022,Electricity,435852.0,kWh,2022-12-01,181.750284,,2
+252,Chapel,January,2022,Natural gas,2483.0,MMBtu,2022-01-01,1.31599,248.3,2
+253,Chapel,February,2022,Natural gas,2497.0,MMBtu,2022-02-01,1.3234100000000002,249.70000000000002,2
+254,Chapel,March,2022,Natural gas,2491.0,MMBtu,2022-03-01,1.3202300000000002,249.10000000000002,2
+255,Chapel,April,2022,Natural gas,2411.0,MMBtu,2022-04-01,1.27783,241.10000000000002,2
+256,Chapel,May,2022,Natural gas,2438.0,MMBtu,2022-05-01,1.29214,243.8,2
+257,Chapel,June,2022,Natural gas,2482.0,MMBtu,2022-06-01,1.31546,248.20000000000002,2
+258,Chapel,July,2022,Natural gas,2436.0,MMBtu,2022-07-01,1.2910800000000002,243.60000000000002,2
+259,Chapel,August,2022,Natural gas,2429.0,MMBtu,2022-08-01,1.2873700000000001,242.9,2
+260,Chapel,September,2022,Natural gas,2405.0,MMBtu,2022-09-01,1.27465,240.5,2
+261,Chapel,October,2022,Natural gas,2436.0,MMBtu,2022-10-01,1.2910800000000002,243.60000000000002,2
+262,Chapel,November,2022,Natural gas,2494.0,MMBtu,2022-11-01,1.32182,249.4,2
+263,Chapel,December,2022,Natural gas,2477.0,MMBtu,2022-12-01,1.31281,247.70000000000002,2
+264,Foxrun,January,2022,Electricity,779.0,kWh,2022-01-01,0.324843,,2
+265,Foxrun,February,2022,Electricity,764.0,kWh,2022-02-01,0.318588,,2
+266,Foxrun,March,2022,Electricity,717.0,kWh,2022-03-01,0.298989,,2
+267,Foxrun,April,2022,Electricity,704.0,kWh,2022-04-01,0.293568,,2
+268,Foxrun,May,2022,Electricity,787.0,kWh,2022-05-01,0.328179,,2
+269,Foxrun,June,2022,Electricity,794.0,kWh,2022-06-01,0.331098,,2
+270,Foxrun,July,2022,Electricity,774.0,kWh,2022-07-01,0.322758,,2
+271,Foxrun,August,2022,Electricity,756.0,kWh,2022-08-01,0.315252,,2
+272,Foxrun,September,2022,Electricity,771.0,kWh,2022-09-01,0.321507,,2
+273,Foxrun,October,2022,Electricity,767.0,kWh,2022-10-01,0.319839,,2
+274,Foxrun,November,2022,Electricity,752.0,kWh,2022-11-01,0.313584,,2
+275,Foxrun,December,2022,Electricity,753.0,kWh,2022-12-01,0.314001,,2
+276,Foxrun,January,2022,Natural gas,1974.0,cu ft,2022-01-01,108806.88,20529600.0,2
+277,Foxrun,February,2022,Natural gas,1909.0,cu ft,2022-02-01,105224.08,19853600.0,2
+278,Foxrun,March,2022,Natural gas,1997.0,cu ft,2022-03-01,110074.64,20768800.0,2
+279,Foxrun,April,2022,Natural gas,1965.0,cu ft,2022-04-01,108310.8,20436000.0,2
+280,Foxrun,May,2022,Natural gas,1986.0,cu ft,2022-05-01,109468.32,20654400.0,2
+281,Foxrun,June,2022,Natural gas,1933.0,cu ft,2022-06-01,106546.96,20103200.0,2
+282,Foxrun,July,2022,Natural gas,1987.0,cu ft,2022-07-01,109523.44,20664800.0,2
+283,Foxrun,August,2022,Natural gas,1954.0,cu ft,2022-08-01,107704.48,20321600.0,2
+284,Foxrun,September,2022,Natural gas,1913.0,cu ft,2022-09-01,105444.56,19895200.0,2
+285,Foxrun,October,2022,Natural gas,1926.0,cu ft,2022-10-01,106161.12,20030400.0,2
+286,Foxrun,November,2022,Natural gas,1965.0,cu ft,2022-11-01,108310.8,20436000.0,2
+287,Foxrun,December,2022,Natural gas,1929.0,cu ft,2022-12-01,106326.48,20061600.0,2
+288,Military,January,2022,Electricity,487.0,kWh,2022-01-01,0.203079,,2
+289,Military,February,2022,Electricity,411.0,kWh,2022-02-01,0.171387,,2
+290,Military,March,2022,Electricity,412.0,kWh,2022-03-01,0.171804,,2
+291,Military,April,2022,Electricity,454.0,kWh,2022-04-01,0.189318,,2
+292,Military,May,2022,Electricity,407.0,kWh,2022-05-01,0.169719,,2
+293,Military,June,2022,Electricity,416.0,kWh,2022-06-01,0.173472,,2
+294,Military,July,2022,Electricity,494.0,kWh,2022-07-01,0.205998,,2
+295,Military,August,2022,Electricity,475.0,kWh,2022-08-01,0.198075,,2
+296,Military,September,2022,Electricity,497.0,kWh,2022-09-01,0.207249,,2
+297,Military,October,2022,Electricity,455.0,kWh,2022-10-01,0.189735,,2
+298,Military,November,2022,Electricity,495.0,kWh,2022-11-01,0.206415,,2
+299,Military,December,2022,Electricity,429.0,kWh,2022-12-01,0.178893,,2
+300,Military,January,2022,Natural gas,1157.0,cu ft,2022-01-01,63773.840000000004,12032800.0,2
+301,Military,February,2022,Natural gas,1171.0,cu ft,2022-02-01,64545.52,12178400.0,2
+302,Military,March,2022,Natural gas,1190.0,cu ft,2022-03-01,65592.8,12376000.0,2
+303,Military,April,2022,Natural gas,1114.0,cu ft,2022-04-01,61403.68,11585600.0,2
+304,Military,May,2022,Natural gas,1101.0,cu ft,2022-05-01,60687.12,11450400.0,2
+305,Military,June,2022,Natural gas,1128.0,cu ft,2022-06-01,62175.36,11731200.0,2
+306,Military,July,2022,Natural gas,1183.0,cu ft,2022-07-01,65206.96,12303200.0,2
+307,Military,August,2022,Natural gas,1136.0,cu ft,2022-08-01,62616.32,11814400.0,2
+308,Military,September,2022,Natural gas,1130.0,cu ft,2022-09-01,62285.6,11752000.0,2
+309,Military,October,2022,Natural gas,1148.0,cu ft,2022-10-01,63277.76,11939200.0,2
+310,Military,November,2022,Natural gas,1151.0,cu ft,2022-11-01,63443.12,11970400.0,2
+311,Military,December,2022,Natural gas,1151.0,cu ft,2022-12-01,63443.12,11970400.0,2
+312,Selby,January,2022,Electricity,1297.0,kWh,2022-01-01,0.540849,,2
+313,Selby,February,2022,Electricity,1201.0,kWh,2022-02-01,0.500817,,2
+314,Selby,March,2022,Electricity,1292.0,kWh,2022-03-01,0.538764,,2
+315,Selby,April,2022,Electricity,1221.0,kWh,2022-04-01,0.509157,,2
+316,Selby,May,2022,Electricity,1238.0,kWh,2022-05-01,0.516246,,2
+317,Selby,June,2022,Electricity,1251.0,kWh,2022-06-01,0.521667,,2
+318,Selby,July,2022,Electricity,1288.0,kWh,2022-07-01,0.537096,,2
+319,Selby,August,2022,Electricity,1267.0,kWh,2022-08-01,0.528339,,2
+320,Selby,September,2022,Electricity,1273.0,kWh,2022-09-01,0.530841,,2
+321,Selby,October,2022,Electricity,1250.0,kWh,2022-10-01,0.52125,,2
+322,Selby,November,2022,Electricity,1220.0,kWh,2022-11-01,0.50874,,2
+323,Selby,December,2022,Electricity,1271.0,kWh,2022-12-01,0.530007,,2
+324,Selby,January,2022,Natural gas,3082.0,cu ft,2022-01-01,169879.84,32052800.0,2
+325,Selby,February,2022,Natural gas,3041.0,cu ft,2022-02-01,167619.92,31626400.0,2
+326,Selby,March,2022,Natural gas,3035.0,cu ft,2022-03-01,167289.2,31564000.0,2
+327,Selby,April,2022,Natural gas,3063.0,cu ft,2022-04-01,168832.56,31855200.0,2
+328,Selby,May,2022,Natural gas,3064.0,cu ft,2022-05-01,168887.68,31865600.0,2
+329,Selby,June,2022,Natural gas,3031.0,cu ft,2022-06-01,167068.72,31522400.0,2
+330,Selby,July,2022,Natural gas,3017.0,cu ft,2022-07-01,166297.04,31376800.0,2
+331,Selby,August,2022,Natural gas,3024.0,cu ft,2022-08-01,166682.88,31449600.0,2
+332,Selby,September,2022,Natural gas,3093.0,cu ft,2022-09-01,170486.16,32167200.0,2
+333,Selby,October,2022,Natural gas,3041.0,cu ft,2022-10-01,167619.92,31626400.0,2
+334,Selby,November,2022,Natural gas,3072.0,cu ft,2022-11-01,169328.64,31948800.0,2
+335,Selby,December,2022,Natural gas,3078.0,cu ft,2022-12-01,169659.36000000002,32011200.0,2
+336,Linden,January,2022,Electricity,1268063.0,kWh,2022-01-01,528.782271,,2
+337,Linden,February,2022,Electricity,1268045.0,kWh,2022-02-01,528.774765,,2
+338,Linden,March,2022,Electricity,1268027.0,kWh,2022-03-01,528.767259,,2
+339,Linden,April,2022,Electricity,1268013.0,kWh,2022-04-01,528.761421,,2
+340,Linden,May,2022,Electricity,1268024.0,kWh,2022-05-01,528.7660079999999,,2
+341,Linden,June,2022,Electricity,1268002.0,kWh,2022-06-01,528.756834,,2
+342,Linden,July,2022,Electricity,1268075.0,kWh,2022-07-01,528.787275,,2
+343,Linden,August,2022,Electricity,1268012.0,kWh,2022-08-01,528.761004,,2
+344,Linden,September,2022,Electricity,1268072.0,kWh,2022-09-01,528.786024,,2
+345,Linden,October,2022,Electricity,1268000.0,kWh,2022-10-01,528.756,,2
+346,Linden,November,2022,Electricity,1268031.0,kWh,2022-11-01,528.768927,,2
+347,Linden,December,2022,Electricity,1268072.0,kWh,2022-12-01,528.786024,,2
+348,Linden,January,2022,Natural gas,7131.0,MMBtu,2022-01-01,3.77943,713.1,2
+349,Linden,February,2022,Natural gas,7129.0,MMBtu,2022-02-01,3.7783700000000007,712.9000000000001,2
+350,Linden,March,2022,Natural gas,7167.0,MMBtu,2022-03-01,3.7985100000000003,716.7,2
+351,Linden,April,2022,Natural gas,7178.0,MMBtu,2022-04-01,3.8043400000000003,717.8000000000001,2
+352,Linden,May,2022,Natural gas,7150.0,MMBtu,2022-05-01,3.7895,715.0,2
+353,Linden,June,2022,Natural gas,7181.0,MMBtu,2022-06-01,3.80593,718.1,2
+354,Linden,July,2022,Natural gas,7152.0,MMBtu,2022-07-01,3.79056,715.2,2
+355,Linden,August,2022,Natural gas,7152.0,MMBtu,2022-08-01,3.79056,715.2,2
+356,Linden,September,2022,Natural gas,7161.0,MMBtu,2022-09-01,3.7953300000000003,716.1,2
+357,Linden,October,2022,Natural gas,7169.0,MMBtu,2022-10-01,3.7995700000000006,716.9000000000001,2
+358,Linden,November,2022,Natural gas,7107.0,MMBtu,2022-11-01,3.7667100000000002,710.7,2
+359,Linden,December,2022,Natural gas,7184.0,MMBtu,2022-12-01,3.8075200000000007,718.4000000000001,2
+360,Golf,January,2022,Electricity,962.0,kWh,2022-01-01,0.401154,,2
+361,Golf,February,2022,Electricity,913.0,kWh,2022-02-01,0.380721,,2
+362,Golf,March,2022,Electricity,988.0,kWh,2022-03-01,0.411996,,2
+363,Golf,April,2022,Electricity,936.0,kWh,2022-04-01,0.390312,,2
+364,Golf,May,2022,Electricity,983.0,kWh,2022-05-01,0.409911,,2
+365,Golf,June,2022,Electricity,913.0,kWh,2022-06-01,0.380721,,2
+366,Golf,July,2022,Electricity,947.0,kWh,2022-07-01,0.394899,,2
+367,Golf,August,2022,Electricity,975.0,kWh,2022-08-01,0.406575,,2
+368,Golf,September,2022,Electricity,952.0,kWh,2022-09-01,0.396984,,2
+369,Golf,October,2022,Electricity,993.0,kWh,2022-10-01,0.414081,,2
+370,Golf,November,2022,Electricity,921.0,kWh,2022-11-01,0.384057,,2
+371,Golf,December,2022,Electricity,925.0,kWh,2022-12-01,0.385725,,2
+372,Golf,January,2022,Natural gas,2309.0,cu ft,2022-01-01,127272.08,24013600.0,2
+373,Golf,February,2022,Natural gas,2397.0,cu ft,2022-02-01,132122.64,24928800.0,2
+374,Golf,March,2022,Natural gas,2382.0,cu ft,2022-03-01,131295.84,24772800.0,2
+375,Golf,April,2022,Natural gas,2341.0,cu ft,2022-04-01,129035.92,24346400.0,2
+376,Golf,May,2022,Natural gas,2314.0,cu ft,2022-05-01,127547.68000000001,24065600.0,2
+377,Golf,June,2022,Natural gas,2395.0,cu ft,2022-06-01,132012.4,24908000.0,2
+378,Golf,July,2022,Natural gas,2369.0,cu ft,2022-07-01,130579.28,24637600.0,2
+379,Golf,August,2022,Natural gas,2357.0,cu ft,2022-08-01,129917.84,24512800.0,2
+380,Golf,September,2022,Natural gas,2394.0,cu ft,2022-09-01,131957.28,24897600.0,2
+381,Golf,October,2022,Natural gas,2396.0,cu ft,2022-10-01,132067.52,24918400.0,2
+382,Golf,November,2022,Natural gas,2382.0,cu ft,2022-11-01,131295.84,24772800.0,2
+383,Golf,December,2022,Natural gas,2305.0,cu ft,2022-12-01,127051.6,23972000.0,2
+384,8th,January,2022,Electricity,1271.0,kWh,2022-01-01,0.530007,,2
+385,8th,February,2022,Electricity,1259.0,kWh,2022-02-01,0.525003,,2
+386,8th,March,2022,Electricity,1259.0,kWh,2022-03-01,0.525003,,2
+387,8th,April,2022,Electricity,1246.0,kWh,2022-04-01,0.519582,,2
+388,8th,May,2022,Electricity,1242.0,kWh,2022-05-01,0.517914,,2
+389,8th,June,2022,Electricity,1214.0,kWh,2022-06-01,0.506238,,2
+390,8th,July,2022,Electricity,1203.0,kWh,2022-07-01,0.501651,,2
+391,8th,August,2022,Electricity,1220.0,kWh,2022-08-01,0.50874,,2
+392,8th,September,2022,Electricity,1257.0,kWh,2022-09-01,0.524169,,2
+393,8th,October,2022,Electricity,1213.0,kWh,2022-10-01,0.505821,,2
+394,8th,November,2022,Electricity,1257.0,kWh,2022-11-01,0.524169,,2
+395,8th,December,2022,Electricity,1212.0,kWh,2022-12-01,0.505404,,2
+396,8th,January,2022,Natural gas,3078.0,cu ft,2022-01-01,169659.36000000002,32011200.0,2
+397,8th,February,2022,Natural gas,3098.0,cu ft,2022-02-01,170761.76,32219200.0,2
+398,8th,March,2022,Natural gas,3059.0,cu ft,2022-03-01,168612.08,31813600.0,2
+399,8th,April,2022,Natural gas,3003.0,cu ft,2022-04-01,165525.36000000002,31231200.0,2
+400,8th,May,2022,Natural gas,3066.0,cu ft,2022-05-01,168997.92,31886400.0,2
+401,8th,June,2022,Natural gas,3040.0,cu ft,2022-06-01,167564.8,31616000.0,2
+402,8th,July,2022,Natural gas,3100.0,cu ft,2022-07-01,170872.0,32240000.0,2
+403,8th,August,2022,Natural gas,3027.0,cu ft,2022-08-01,166848.24,31480800.0,2
+404,8th,September,2022,Natural gas,3065.0,cu ft,2022-09-01,168942.8,31876000.0,2
+405,8th,October,2022,Natural gas,3001.0,cu ft,2022-10-01,165415.12,31210400.0,2
+406,8th,November,2022,Natural gas,3067.0,cu ft,2022-11-01,169053.04,31896800.0,2
+407,8th,December,2022,Natural gas,3031.0,cu ft,2022-12-01,167068.72,31522400.0,2
+408,Meadow,January,2022,Electricity,1097.0,kWh,2022-01-01,0.457449,,2
+409,Meadow,February,2022,Electricity,1015.0,kWh,2022-02-01,0.423255,,2
+410,Meadow,March,2022,Electricity,1047.0,kWh,2022-03-01,0.436599,,2
+411,Meadow,April,2022,Electricity,1046.0,kWh,2022-04-01,0.436182,,2
+412,Meadow,May,2022,Electricity,1042.0,kWh,2022-05-01,0.434514,,2
+413,Meadow,June,2022,Electricity,1050.0,kWh,2022-06-01,0.43785,,2
+414,Meadow,July,2022,Electricity,1029.0,kWh,2022-07-01,0.429093,,2
+415,Meadow,August,2022,Electricity,1035.0,kWh,2022-08-01,0.431595,,2
+416,Meadow,September,2022,Electricity,1080.0,kWh,2022-09-01,0.45036,,2
+417,Meadow,October,2022,Electricity,1020.0,kWh,2022-10-01,0.42534,,2
+418,Meadow,November,2022,Electricity,1068.0,kWh,2022-11-01,0.445356,,2
+419,Meadow,December,2022,Electricity,1034.0,kWh,2022-12-01,0.431178,,2
+420,Meadow,January,2022,Natural gas,2600.0,cu ft,2022-01-01,143312.0,27040000.0,2
+421,Meadow,February,2022,Natural gas,2527.0,cu ft,2022-02-01,139288.24,26280800.0,2
+422,Meadow,March,2022,Natural gas,2530.0,cu ft,2022-03-01,139453.6,26312000.0,2
+423,Meadow,April,2022,Natural gas,2583.0,cu ft,2022-04-01,142374.96,26863200.0,2
+424,Meadow,May,2022,Natural gas,2557.0,cu ft,2022-05-01,140941.84,26592800.0,2
+425,Meadow,June,2022,Natural gas,2551.0,cu ft,2022-06-01,140611.12,26530400.0,2
+426,Meadow,July,2022,Natural gas,2544.0,cu ft,2022-07-01,140225.28,26457600.0,2
+427,Meadow,August,2022,Natural gas,2540.0,cu ft,2022-08-01,140004.8,26416000.0,2
+428,Meadow,September,2022,Natural gas,2513.0,cu ft,2022-09-01,138516.56,26135200.0,2
+429,Meadow,October,2022,Natural gas,2508.0,cu ft,2022-10-01,138240.96,26083200.0,2
+430,Meadow,November,2022,Natural gas,2567.0,cu ft,2022-11-01,141493.04,26696800.0,2
+431,Meadow,December,2022,Natural gas,2527.0,cu ft,2022-12-01,139288.24,26280800.0,2
