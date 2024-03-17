@@ -5,3 +5,9 @@ Please find my completed GHG Inventory assesment contained in this folder.
 * All of the processed data is saved in .csv form for analysis and presentation in Power BI. You can also find the "Post_processed_data.xlsx" book here, but all calculations are saved in the .ipynb file.
 * You can find the presentation slides here: https://docs.google.com/presentation/d/1iEJQz9lObaoD-0qqO7Ap8k2x2Y6lkdoF-r5H_9Fd3Ik/edit?usp=sharing
 * The Power BI dashboard will be included on the presentation slides since I do not have a personal paid account.
+
+Please find the sources I used to determine CO2 equivalents below:
+
+* https://www.epa.gov/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references
+* https://ww2.arb.ca.gov/resources/documents/high-gwp-refrigerants
+* https://ghgprotocol.org/sites/default/files/ghgp/Global-Warming-Potential-Values%20%28Feb%2016%202016%29_1.pdf
